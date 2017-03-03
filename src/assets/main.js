@@ -1,5 +1,8 @@
 $(function() {
 
-  // your code will go here
+var url = "https://www.codeschool.com/users/lowtyde.json";
+
+console.log(url)
+
 
 });
